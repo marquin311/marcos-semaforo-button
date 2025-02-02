@@ -15,21 +15,21 @@
       "id": "led1",
       "top": 34.8,
       "left": -351.4,
-      "attrs": { "color": "red" }
+      "attrs": { "color": "green" }
     },
     {
       "type": "wokwi-led",
       "id": "led2",
       "top": 73.2,
       "left": -322.6,
-      "attrs": { "color": "blue" }
+      "attrs": { "color": "red" }
     },
     {
       "type": "wokwi-led",
       "id": "led3",
       "top": 102,
       "left": -293.8,
-      "attrs": { "color": "green" }
+      "attrs": { "color": "blue" }
     },
     {
       "type": "wokwi-resistor",
