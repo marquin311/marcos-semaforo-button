@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/Semafor-com-push-button.uf2'
+elf = 'build/Semafor-com-push-button.elf'
