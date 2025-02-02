@@ -13,7 +13,7 @@ Confirma a leitura do botão antes de acionar a sequência.
 
 Sequência de Desligamento com add_alarm_in_ms():
 
-Após 3s, desliga o LED vermelho e agenda o desligamento do azul.
-Após mais 3s, desliga o LED azul e agenda o desligamento do verde.
-Após mais 3s, desliga o LED verde e agenda o reset do estado.
+Após 3s, desliga o LED verde e agenda o desligamento do vermelho.
+Após mais 3s, desliga o LED vermelho e agenda o desligamento do azul.
+Após mais 3s, desliga o LED azul e agenda o reset do estado.
 Após mais 3s, libera o botão para um novo acionamento.
