@@ -17,3 +17,17 @@ Após 3s, desliga o LED verde e agenda o desligamento do vermelho.
 Após mais 3s, desliga o LED vermelho e agenda o desligamento do azul.
 Após mais 3s, desliga o LED azul e agenda o reset do estado.
 Após mais 3s, libera o botão para um novo acionamento.
+
+Componentes Utilizados:
+
+1x Raspberry Pi Pico W
+1x Botão (pushbutton)
+3x LEDs (Azul, Vermelho e Verde)
+3x Resistores de 330Ω
+
+Esquema de Ligação:
+
+Botão (Push):	GPIO 5
+LED Azul:	GPIO 13
+LED Vermelho:	GPIO 12
+LED Verde: GPIO 11
